@@ -32,7 +32,7 @@ Currently focusing on combining AI with efficient backend architectures to creat
 ---
 
 ## 🌐 Connect
-📫 Telegram: 
+📫 Telegram: tooran_developer
 📧 Email: tooran.reza1997@gmail.com  
 📍 Location: Austria
 
